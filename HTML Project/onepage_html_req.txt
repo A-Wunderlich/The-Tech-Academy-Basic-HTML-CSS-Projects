@@ -1,0 +1,24 @@
+You have been given the following rough requirements for the design of a web page:
+
+The page is intended to be an “Account Creation” page for a site that lets people view photos.
+
+The page you will create should have some content that describes the site, and should have a form that allows a person to enter in data needed to create an account for them.
+
+The minimum data they will need in order to create an account is:
+
+1. First and Last name
+
+2. Email address
+
+3. Preference for the type of photos they like to see. The available types are:
+
+a. Space photos
+
+b. Sports photos
+
+c. Wildlife photos
+
+d. Plant photos
+
+This means that your form must contain inputs for this data. You can include other inputs if you wish, but you have to allow for this data at a minimum.
+
