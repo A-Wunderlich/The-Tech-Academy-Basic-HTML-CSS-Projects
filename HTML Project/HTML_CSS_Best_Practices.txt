@@ -1,0 +1,12 @@
+CSS BEST PRACTICES
+Here are some tips for writing and maintaining healthy code that won’t frustrate you or others later down the road.
+
+Use classes and IDs sparingly. Use them only when necessary. Not every HTML element on a page requires a class or id assignment. By needlessly assigning classes and ids, your code can become convoluted and difficult to follow.
+
+Create separate stylesheets for different styling purposes. If a section of your stylesheet is solely for the login page, then it is recommended to create a separate stylesheet for it.
+
+Use the CSS shorthand property names. For example, rather than margin-top, margin-right, margin-bottom, margin-left, you can code the shorthand as: margin: 1px 1px 1px 1px;
+
+Keep your code organized and comment thoroughly. This doesn’t mean to comment every little detail, but be sure to elaborate about anything that might be confusing.
+
+Use a code validator. The best is validator.w3.org. (Link below) This is a great way of making sure your code is accurate and will render properly. https://validator.w3.org/
