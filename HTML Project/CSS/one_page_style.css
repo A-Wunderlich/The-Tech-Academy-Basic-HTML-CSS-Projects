@@ -1,0 +1,19 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16pt;
+}
+
+input[type="text"] {
+    outline: none;
+    font-size: 20px;
+    width: 25%;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 4px double slategray;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 2.5% 0;
+}
+
+select {
+    height: 2em;
+}
